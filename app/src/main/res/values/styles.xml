@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="styleButtonBottomMenu" parent="Widget.Material3.Button.ElevatedButton.Icon">
+
+        <item name="android:textSize">@dimen/sizeTextButton</item>
+        <item name="android:textColor">@color/grayForButton</item>
+        <item name="iconTint">@color/grayForButton</item>
+
+    </style>
+
+</resources>
